@@ -1,6 +1,6 @@
 # EX-02 PERFORMING DATA COLLECTION THROUGH WEB SCRAPING
 ### Aim:
-To Perform Data Collection through web scraping using python.&emsp;&emsp;&emsp;&emsp;&emsp
+To Perform Data Collection through web scraping using python.
 
 ### Algorithm:
 Step 1: Include the Necessary python libraries.<br>
